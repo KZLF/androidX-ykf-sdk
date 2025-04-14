@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.kzlf</groupId>
   <artifactId>androidX-ykf-sdk</artifactId>
-  <version>4.9.8</version>
+  <version>4.11.2</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -57,7 +57,7 @@
     <dependency>
         <groupId>com.github.kzlf</groupId>
         <artifactId>android-imkf-sdk</artifactId>
-        <version>4.9.8</version>
+        <version>4.11.2</version>
     </dependency>
   </dependencies>
 </project>
